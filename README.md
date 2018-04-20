@@ -1,0 +1,2 @@
+# EML
+EML is for Ecological Metadata Language. It's an .xml format that describes datasets with with rich, structured metadata. This repo is a staging area for dataset descriptions that will be used to develop a comrehensive, version controlled data catalog for web display. 
