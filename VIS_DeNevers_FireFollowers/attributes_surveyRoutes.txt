@@ -1,0 +1,5 @@
+attributeName	attributeDefinition	class	unit	dateTimeFormatString	missingValueCode	missingValueCodeExplanation
+route_id		categorical				
+date		Date		!Add datetime specifier here!		
+observer		categorical				
+dataRecorder		categorical				

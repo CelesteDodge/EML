@@ -1,0 +1,8 @@
+attributeName	attributeDefinition	class	unit	dateTimeFormatString	missingValueCode	missingValueCodeExplanation
+route_id		categorical				
+site_id		categorical				
+species_code		categorical				
+quadratNumber		categorical				
+numberPlants		categorical				
+percentCover		categorical				
+associateSpecies		categorical				

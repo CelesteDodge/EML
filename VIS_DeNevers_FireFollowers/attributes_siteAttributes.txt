@@ -1,0 +1,10 @@
+attributeName	attributeDefinition	class	unit	dateTimeFormatString	missingValueCode	missingValueCodeExplanation
+site_id		categorical				
+route_id		categorical				
+longitude_or_UTM_E		categorical				
+latitude_or_UTM_N		categorical				
+gps_point_coordinate_system		categorical				
+date		Date		!Add datetime specifier here!		
+elevation		categorical				
+elevationMethod		categorical				
+siteDescription		categorical				
