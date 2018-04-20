@@ -1,1 +1,1 @@
-site_id,route_id,longitude or UTM E,latitude or UTM N,gps point coordinate system,date,elevation,elevation methods,description
+site_id,route_id,longitude_or_UTM_E,latitude_or_UTM_N,gps_point_coordinate_system,date,elevation,elevationMethod,siteDescription

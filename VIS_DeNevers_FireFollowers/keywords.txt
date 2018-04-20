@@ -1,1 +1,7 @@
 keyword	keywordThesaurus
+plant species composition	lter
+biodiversity	lter
+wildfires	lter
+disturbances	lter
+burns	lter
+species lists	lter
