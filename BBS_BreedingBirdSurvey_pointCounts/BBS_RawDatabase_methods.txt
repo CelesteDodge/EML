@@ -1,0 +1,15 @@
+﻿Four transects are surveyed annually using standardized point count protocols outlined by the Point Reyes Bird Observatory (now called Point Blue Conservation Science; Ballard et al. 2003) and the Handbook of Field Methods for Monitoring Landbirds (Ralph et al. 1993). We use a standardized Fixed Radius count method where each observed bird is assigned to a distance bin of <50 m or >50 m from the observer. Point count observations are made starting within 15 minutes of sunrise and finishing 3–4 hours following sunrise, typically by 10am. Observations are not made in inclement weather conditions that would affect bird activity such as fog, high wind, or rain.
+Each of the four transects are visited three times per year between late April and June, with at least 10–15 days between each visit. The point count order is reversed each sampling event to prevent bias associated with observation time. Two to three volunteers skilled in bird identification are present for each count, with one designated as a note taker for the day.
+Points are approached as quietly as possible to prevent disturbing birds. Counts typically start within a minute of arriving at the monitoring location and last for five minutes. The species, number of birds observed, detection type (song, call, visual) and any breeding behavior the birds may be displaying are recorded.
+Behavior codes:
+CO – Copulation 
+DI – Territorial Display
+DD – Distraction display 
+FC – Food being carried
+FL – Fledgling(s) present
+FS – Fecal sac being carried
+MC – Material being carried
+NF – Nest found
+PA – Pair
+
+If something interferes with our ability to detect birds during the five minute count (e.g. a vehicle drives by), the count is stopped until the disturbance has passed and the five minute count starts over. Bird attractants are not used such as recorded or verbal calls or "pishing" to flush birds out.

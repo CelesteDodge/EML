@@ -1,0 +1,2 @@
+Please see this dataset's repo for EML metadata along with the data itself:
+https://github.com/CelesteDodge/W/tree/master/MET/EML

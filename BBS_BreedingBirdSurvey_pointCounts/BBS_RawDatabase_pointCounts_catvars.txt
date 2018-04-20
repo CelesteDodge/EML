@@ -1,0 +1,136 @@
+attributeName	code	definition
+BreedingStatus	-9999	missing values code
+BreedingStatus	DD	Distraction Display
+BreedingStatus	FC	Food carry
+BreedingStatus	FL	Fledgling
+BreedingStatus	FS	Fecal sac carry
+BreedingStatus	M	Material carry
+BreedingStatus	N	Nest found
+BreedingStatus	N and FC	Nest found with food carry
+DataUploadedCADC	0	Data not uploaded to CADC repository
+DataUploadedCADC	1	Data uploaded to CADC repository
+DetectionCue	-9999	missing values code
+DetectionCue	C	Call or drumming observation
+DetectionCue	S	Singing observation
+DetectionCue	V	Visual observation
+DistanceBin	-9999	missing values code
+DistanceBin	<50	Less than 50m from observer
+DistanceBin	>50	Greater than 50m from observer
+DistanceBin	FlyOver	Flyover
+DistanceBinID	-9999	missing values code
+DistanceBinID	FLO	Flyover
+DistanceBinID	G50	Greater than 50m from observer
+DistanceBinID	L50	Less than 50m from observer
+levelQC	0	"Data entered not QC'd ""raw"""
+levelQC	1	Data entered QC'd and cleaned
+Project	PEPR	Project code for Pepperwood Preserve
+Protocol	FR50	 Fixed Radius 50m point count
+Spp	ACWO	Acorn Woodpecker (Melanerpes formicivorus)
+Spp	ALHU	Allen's Hummingbird (Selasphorus sasin)
+Spp	AMCR	American Crow (Corvus brachyrhynchos)
+Spp	AMGO	American Goldfinch (Spinus tristis)
+Spp	AMKE	American Kestrel (Falco sparverius)
+Spp	AMRO	American Robin (Turdus migratorius)
+Spp	ANHU	Anna's Hummingbird (Calypte anna)
+Spp	ATFL	Ash-throated Flycatcher (Myiarchus cinerascens)
+Spp	BARS	Barn Swallow (Hirundo rustica)
+Spp	BEWR	Bewick's Wren (Thryomanes bewickii)
+Spp	BGGN	Blue-gray Gnatcatcher (Polioptila caerulea)
+Spp	BHCO	Brown-headed Cowbird (Molothrus ater)
+Spp	BHGR	Black-headed Grosbeak (Pheucticus melanocephalus)
+Spp	BLPH	Black Phoebe (Sayornis nigricans)
+Spp	BRBL	Brewer's Blackbird (Euphagus cyanocephalus)
+Spp	BRCR	Brown Creeper (Certhia americana)
+Spp	BTPI	Band-tailed Pigeon (Patagioenas fasciata)
+Spp	BTYW	Black-throated Gray Warbler (Dendroica nigrescens)
+Spp	BUOR	Bullock's Oriole (Icterus bullockii)
+Spp	BUSH	Bushtit (Psaltriparus minimus)
+Spp	CALT	California Towhee (Pipilo crissalis)
+Spp	CANG	Canada Goose (Branta canadensis)
+Spp	CAQU	California Quail (Callipepla californica)
+Spp	CAVI	Cassin's Vireo (Vireo cassinii)
+Spp	CBCH	Chestnut-backed Chickadee (Poecile rufescens)
+Spp	CEDW	Cedar Waxwing (Bombycilla cedrorum)
+Spp	CHSP	Chipping Sparrow (Spizella passerina)
+Spp	CLSW	Cliff Swallow (Petrochelidon pyrrhonota)
+Spp	CORA	Common Raven (Corvus corax)
+Spp	DCCO	Double-crested Cormorant (Phalacrocorax auritus)
+Spp	DOWO	Downy Woodpecker (Picoides pubescens)
+Spp	EUST	European Starling (Sturnus vulgaris)
+Spp	GBHE	Great Blue Heron (Ardea herodias)
+Spp	GCSP	Golden-crowned Sparrow (Zonotrichia atricapilla)
+Spp	GHOW	Great Horned Owl (Bubo virginianus)
+Spp	GOEA	Golden Eagle (Aquila chrysaetos)
+Spp	GRSP	Grasshopper Sparrow (Ammodramus savannarum)
+Spp	HAWO	Hairy Woodpecker (Picoides villosus)
+Spp	HETH	Hermit Thrush (Catharus guttatus)
+Spp	HOFI	House Finch (Carpodacus mexicanus)
+Spp	HOWR	House Wren (Troglodytes aedon)
+Spp	HUVI	Hutton's Vireo (Vireo huttoni)
+Spp	LAGO	Lawrence's Goldfinch (Spinus lawrencei)
+Spp	LASP	Lark Sparrow (Chondestes grammacus)
+Spp	LAZB	Lazuli Bunting (Passerina amoena)
+Spp	LEGO	Lesser Goldfinch (Spinus psaltria)
+Spp	MALL	Mallard (Anas platyrhynchos)
+Spp	MERL	Merlin (Falco columbarius)
+Spp	MODO	Mourning Dove (Zenaida macroura)
+Spp	MOUQ	Mountain Quail (Oreortyx pictus)
+Spp	NOHA	Northern Harrier (Circus cyaneus)
+Spp	NOPO	Northern Pygmy-Owl (Glaucidium gnoma)
+Spp	NUWO	Nuttall's Woodpecker (Picoides nuttallii)
+Spp	OATI	Oak Titmouse (Baeolophus inornatus)
+Spp	OCWA	Orange-crowned Warbler (Vermivora celata)
+Spp	ORJU	Oregon Junco (Junco hyemalis oregonus)
+Spp	OSFL	Olive-sided Flycatcher (Contopus cooperi)
+Spp	OSPR	Osprey (Pandion haliaetus)
+Spp	PAWR	Pacific Wren (Troglodytes pacificus)
+Spp	PEFA	Peregrine Falcon (Falco peregrinus)
+Spp	PISI	Pine Siskin (Spinus pinus)
+Spp	PIWO	Pileated Woodpecker (Dryocopus pileatus)
+Spp	PSFL	Pacific-slope Flycatcher (Empidonax difficilis)
+Spp	PUFI	Purple Finch (Haemorhous purpureus)
+Spp	RBNU	Red-breasted Nuthatch (Sitta canadensis)
+Spp	RCKI	Ruby-crowned Kinglet (Regulus calendula)
+Spp	RCSP	Rufous-crowned Sparrow (Aimophila ruficeps)
+Spp	ROPI	Rock Pigeon (Columba livia)
+Spp	RSFL	Red-shafted Flicker (Colaptes auratus cafer)
+Spp	RSHA	Red-shouldered Hawk (Buteo lineatus)
+Spp	RTHA	Red-tailed Hawk (Buteo jamaicensis)
+Spp	RWBL	Red-winged Blackbird (Agelaius phoeniceus)
+Spp	SAPH	Say's Phoebe (Sayornis saya)
+Spp	SAVS	Savannah Sparrow (Passerculus sandwichensis)
+Spp	SOSP	Song Sparrow (Melospiza melodia)
+Spp	SPTO	Spotted Towhee (Pipilo maculatus)
+Spp	STJA	Steller's Jay (Cyanocitta stelleri)
+Spp	SWTH	Swainson's Thrush (Catharus ustulatus)
+Spp	TOWA	Townsend's Warbler (Dendroica townsendi)
+Spp	TRES	Tree Swallow (Tachycineta bicolor)
+Spp	TUVU	Turkey Vulture (Cathartes aura)
+Spp	VGSW	Violet-green Swallow (Tachycineta thalassina)
+Spp	WAVI	Warbling Vireo (Vireo gilvus)
+Spp	WBNU	White-breasted Nuthatch (Sitta carolinensis)
+Spp	WEBL	Western Bluebird (Sialia mexicana)
+Spp	WEKI	Western Kingbird (Tyrannus verticalis)
+Spp	WEME	Western Meadowlark (Sturnella neglecta)
+Spp	WESJ	Western Scrub-Jay (Aphelocoma californica)
+Spp	WETA	Western Tanager (Piranga ludoviciana)
+Spp	WEWP	Western Wood-Pewee (Contopus sordidulus)
+Spp	WIFL	Willow Flycatcher (Empidonax traillii)
+Spp	WITU	Wild Turkey (Meleagris gallopavo)
+Spp	WIWA	Wilson's Warbler (Wilsonia pusilla)
+Spp	WREN	Wrentit (Chamaea fasciata)
+Spp	WTKI	White-tailed Kite (Elanus leucurus)
+Spp	XXFI	Finch sp
+Spp	XXGO	Goose sp
+Spp	XXSP	Sparrow sp
+Spp	XXHU	Hummingbird sp
+Spp	XXSW	Swallow or Swift sp
+Spp	XXWA	Warbler sp
+Spp	XXWO	Woodpecker sp
+Spp	XXXX	Bird sp
+Spp	YEWA	Yellow Warbler (Dendroica petechia)
+Spp	YRWA	Yellow-rumped Warbler (Dendroica coronata)
+Transect	MACR	Martin Creek transect - runs from Three Tree Hill to the northwestern edge of the preserve along the Martin Creek stretch; Established 2007; 9 sampling points along route
+Transect	PERO	Pepperwood Road transect - runs from the preserve entrance to Three Tree Hill; Established 2012; 10 sampling points along route
+Transect	ROCA	Rogers Canyon transect - runs from Turtle Pond to the property boundary near Leslie Creek Road; Established 2007; 10 sampling points along route
+Transect	WEFL	Weimar Flat transect - runs from the Weimar pasture western gate to our neighboring property east of Weimar Flat; Established 2007; 9 sampling points along route

@@ -1,0 +1,25 @@
+attributeName	attributeDefinition	class	unit	dateTimeFormatString	missingValueCode	missingValueCodeExplanation
+Project	Project code PEPR stands for Pepperwood Preserve	categorical			-9999	missing value
+Transect	Transect code	categorical			-9999	missing value
+Point	Transect sampling point ID using transect and point number	character			-9999	missing value
+Protocol	Breeding bird survey sampling protocol used	categorical			-9999	missing value
+Visit	Visit number for the survey during a given breeding bird season (standard is 3 visits one each during April May and June)	numeric	number		-9999	missing value
+Date	Sampling date	Date		MM/DD/YYYY	-9999	missing value
+Year	Year of sampling date	Date		YYYY	-9999	missing value
+StartTime	Sampling start time	Date		hh:mm	-9999	time either not recorded or not entered
+EndTime	Sampling end time	Date		hh:mm	-9999	time either not recorded or not entered
+ObserveTime	Defaulted to sampling start time	Date		hh:mm	-9999	time either not recorded or not entered
+Count	Number of individuals	numeric	number		-9999	missing value
+Spp	Internal species code for species observed or heard	categorical			-9999	missing value
+DetectionCue	Detection cue by which the species was detected (visual call or singing)	categorical			-9999	missing value
+DistanceBinID	Distance of species from observer	categorical			-9999	missing value
+DistanceBin	Bin of distance of species from observer	categorical			-9999	missing value
+TimeBin	Amount of time spent observing (default 5min)	numeric	minute		-9999	missing value
+BreedingStatus	Observed breeding bird behavior	categorical			-9999	missing value
+Observer	Name of main observer	character			-9999	missing value
+levelQC	Status of data QC process	categorical			-9999	missing value
+DataUploadedCADC	Status of data upload to CADC repository	categorical			-9999	missing value
+FieldNotes	Notes from field data sheets	character			-9999	no notes made
+EnteredData	Name of person that entered data digitally	character			-9999	missing value
+DataQCdBy	Name of person that QC'd data entry	character			-9999	missing value
+QCNotes	Notes about the QC process such as code changes between data sheets and digital format	character			-9999	no notes made

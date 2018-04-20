@@ -1,0 +1,11 @@
+givenName	surName	organizationName	electronicMailAddress	userId	role	projectTitle	fundingAgency	fundingNumber
+Research	Team	Pepperwood Foundation	research@pepperwoodpreserve.org		contact			
+Michelle	Halbur	Pepperwood Foundation	mhalbur@pepperwoodpreserve.org		contact			
+Michelle	Halbur	Pepperwood Foundation	mhalbur@pepperwoodpreserve.org		creator			
+Nicole	Barden	Pepperwood Foundation	nbarden@pepperwoodpreserve.org		contact			
+Nicole	Barden	Pepperwood Foundation	nbarden@pepperwoodpreserve.org		creator			
+Celeste	Dodge	Pepperwood Foundation	cdodge@pepperwoodpreserve.org	0000-0003-0932-1911	Information Manager			
+Tosha	Comendant	Pepperwood Foundation	tcomendant@pepperwoodpreserve.org		pi	Sentinel Site	Pepperwood Foundation	
+Lisa	Micheli	Pepperwood Foundation	lmicheli@pepperwoodpreserve.org		pi	Sentinel Site	Pepperwood Foundation	
+Moe	Flannery	California Academy of Sciences	MFlannery@calacademy.org		creator			
+Moe	Flannery	California Academy of Sciences	MFlannery@calacademy.org		contact			

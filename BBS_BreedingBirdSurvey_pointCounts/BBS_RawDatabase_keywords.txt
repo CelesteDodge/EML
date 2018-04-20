@@ -1,0 +1,11 @@
+keyword	keywordThesaurus
+Birds	LTER 
+Vertebrates	LTER
+transects	LTER
+species abundance	LTER
+community composition	LTER
+Citizen science	
+Point Counts	
+Pepperwood	
+Dwight Center for Conservation Science	
+Sentinel Site	

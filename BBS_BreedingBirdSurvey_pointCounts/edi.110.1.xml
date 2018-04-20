@@ -1,0 +1,1221 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:stmml="http://www.xml-cml.org/schema/stmml-1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" packageId="edi.110.1" system="edi" xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1  http://nis.lternet.edu/schemas/EML/eml-2.1.1/eml.xsd">
+  <access scope="document" order="allowFirst" authSystem="edi">
+    <allow>
+      <principal>uid=name,o=LTER,dc=ecoinformatics,dc=org</principal>
+      <permission>all</permission>
+    </allow>
+    <allow>
+      <principal>public</principal>
+      <permission>read</permission>
+    </allow>
+  </access>
+  <dataset>
+    <title>Pepperwood  Breeding Bird Survey:  Point counts of breeding birds across four transects at Pepperwood Preserve in the California Coast Ranges: 2007-2017</title>
+    <creator>
+      <individualName>
+        <givenName>Michelle</givenName>
+        <surName>Halbur</surName>
+      </individualName>
+      <organizationName>Pepperwood Foundation</organizationName>
+      <electronicMailAddress>mhalbur@pepperwoodpreserve.org</electronicMailAddress>
+    </creator>
+    <creator>
+      <individualName>
+        <givenName>Nicole</givenName>
+        <surName>Barden</surName>
+      </individualName>
+      <organizationName>Pepperwood Foundation</organizationName>
+      <electronicMailAddress>nbarden@pepperwoodpreserve.org</electronicMailAddress>
+    </creator>
+    <creator>
+      <individualName>
+        <givenName>Moe</givenName>
+        <surName>Flannery</surName>
+      </individualName>
+      <organizationName>California Academy of Sciences</organizationName>
+      <electronicMailAddress>MFlannery@calacademy.org</electronicMailAddress>
+    </creator>
+    <associatedParty>
+      <individualName>
+        <givenName>Celeste</givenName>
+        <surName>Dodge</surName>
+      </individualName>
+      <organizationName>Pepperwood Foundation</organizationName>
+      <electronicMailAddress>cdodge@pepperwoodpreserve.org</electronicMailAddress>
+      <userId directory="https://orcid.org">https://orcid.org/0000-0003-0932-1911</userId>
+      <role>Information Manager</role>
+    </associatedParty>
+    <pubDate>2017-11-16</pubDate>
+    <abstract>
+      <para>
+  The Pepperwood Breeding Bird Survey was initiated in the spring of
+  2007 with the goal of establishing a set of baseline bird community
+  data that could be built upon for years to come. Four transects are
+  surveyed annually (Martin Creek, Pepperwood Road, Rogers Canyon, and
+  Weimar Flat) using standardized point count protocols outlined by the
+  Point Reyes Bird Observatory (now called Point Blue Conservation
+  Science; Ballard et al. 2003) and the Handbook of Field Methods for
+  Monitoring Landbirds (Ralph et al. 1993). Counts are conducted by
+  experienced citizen scientists and start in late April and end in
+  June, with each transect being surveyed a total of three times during
+  the breeding season. In 2012, the fourth transect along Pepperwood
+  Road was added to ensure that the preserve has comprehensive
+  monitoring coverage and includes serpentine chaparral habitat found
+  towards the preserve entrance. This data set includes data collected
+  between 2007 - 2017 only.
+</para>
+    </abstract>
+    <keywordSet>
+      <keyword>Birds</keyword>
+      <keywordThesaurus>LTER </keywordThesaurus>
+    </keywordSet>
+    <keywordSet>
+      <keyword>Vertebrates</keyword>
+      <keyword>transects</keyword>
+      <keyword>species abundance</keyword>
+      <keyword>community composition</keyword>
+      <keywordThesaurus>LTER</keywordThesaurus>
+    </keywordSet>
+    <keywordSet>
+      <keyword>Citizen science</keyword>
+      <keyword>Point Counts</keyword>
+      <keyword>Pepperwood</keyword>
+      <keyword>Dwight Center for Conservation Science</keyword>
+      <keyword>Sentinel Site</keyword>
+    </keywordSet>
+    <additionalInfo>
+      <para>
+  This is a good place to share additional text based information that
+  doesn't fall under the scope of the abstract or methods (e.g. a list
+  of research articles or theses derived from this dataset). Use only
+  UTF-8 text and symbols. Delete this file if you have no additional
+  information to present.
+</para>
+    </additionalInfo>
+    <intellectualRights>
+      <para>
+  This information is released under the Creative Commons license -
+  Attribution - CC BY (https://creativecommons.org/licenses/by/4.0/).
+  The consumer of these data ("Data User" herein) is required
+  to cite it appropriately in any publication that results from its use.
+  The Data User should realize that these data may be actively used by
+  others for ongoing research and that coordination may be necessary to
+  prevent duplicate publication. The Data User is urged to contact the
+  authors of these data if any questions about methodology or results
+  occur. Where appropriate, the Data User is encouraged to consider
+  collaboration or co-authorship with the authors. The Data User should
+  realize that misinterpretation of data may occur if used out of
+  context of the original study. While substantial efforts are made to
+  ensure the accuracy of data and associated documentation, complete
+  accuracy of data sets cannot be guaranteed. All data are made
+  available "as is." The Data User should be aware, however,
+  that data are updated periodically and it is the responsibility of the
+  Data User to check for new versions of the data. The data authors and
+  the repository where these data were obtained shall not be liable for
+  damages resulting from any use or misinterpretation of the data. Thank
+  you.
+</para>
+    </intellectualRights>
+    <coverage>
+      <geographicCoverage>
+        <geographicDescription>Located on a ridgeline of the Mayacamas Mountains and at the southern end of California's North Coast Range, Pepperwood is uniquely situated at the headwaters of three watersheds - Mark West, Franz Creek, and Brooks Creek - key tributaries to the Russian River watershed. Situated in the California Floristic Province, a region recognized globally as a biodiversity hotspot, Pepperwood itself represents a biodiversity crossroads, featuring species representative of California's coastal, interior, northern and southern climates which converge in rich mosaic of plant communities.</geographicDescription>
+        <boundingCoordinates>
+          <westBoundingCoordinate>-122.74180226131422</westBoundingCoordinate>
+          <eastBoundingCoordinate>-122.68599735019059</eastBoundingCoordinate>
+          <northBoundingCoordinate>38.603943</northBoundingCoordinate>
+          <southBoundingCoordinate>38.565202</southBoundingCoordinate>
+        </boundingCoordinates>
+      </geographicCoverage>
+      <temporalCoverage>
+        <rangeOfDates>
+          <beginDate>
+            <calendarDate>2007-04-01</calendarDate>
+          </beginDate>
+          <endDate>
+            <calendarDate>2017-06-30</calendarDate>
+          </endDate>
+        </rangeOfDates>
+      </temporalCoverage>
+    </coverage>
+    <maintenance>
+      <description>ongoing</description>
+    </maintenance>
+    <contact>
+      <individualName>
+        <givenName>Research</givenName>
+        <surName>Team</surName>
+      </individualName>
+      <organizationName>Pepperwood Foundation</organizationName>
+      <electronicMailAddress>research@pepperwoodpreserve.org</electronicMailAddress>
+    </contact>
+    <contact>
+      <individualName>
+        <givenName>Michelle</givenName>
+        <surName>Halbur</surName>
+      </individualName>
+      <organizationName>Pepperwood Foundation</organizationName>
+      <electronicMailAddress>mhalbur@pepperwoodpreserve.org</electronicMailAddress>
+    </contact>
+    <contact>
+      <individualName>
+        <givenName>Nicole</givenName>
+        <surName>Barden</surName>
+      </individualName>
+      <organizationName>Pepperwood Foundation</organizationName>
+      <electronicMailAddress>nbarden@pepperwoodpreserve.org</electronicMailAddress>
+    </contact>
+    <contact>
+      <individualName>
+        <givenName>Moe</givenName>
+        <surName>Flannery</surName>
+      </individualName>
+      <organizationName>California Academy of Sciences</organizationName>
+      <electronicMailAddress>MFlannery@calacademy.org</electronicMailAddress>
+    </contact>
+    <methods>
+      <methodStep>
+        <description>
+          <para>
+  Four transects are surveyed annually using standardized point count
+  protocols outlined by the Point Reyes Bird Observatory (now called
+  Point Blue Conservation Science; Ballard et al. 2003) and the Handbook
+  of Field Methods for Monitoring Landbirds (Ralph et al. 1993). We use
+  a standardized Fixed Radius count method where each observed bird is
+  assigned to a distance bin of &lt;50 m or &gt;50 m from the observer.
+  Point count observations are made starting within 15 minutes of
+  sunrise and finishing 3–4 hours following sunrise, typically by 10am.
+  Observations are not made in inclement weather conditions that would
+  affect bird activity such as fog, high wind, or rain. Each of the four
+  transects are visited three times per year between late April and
+  June, with at least 10–15 days between each visit. The point count
+  order is reversed each sampling event to prevent bias associated with
+  observation time. Two to three volunteers skilled in bird
+  identification are present for each count, with one designated as a
+  note taker for the day. Points are approached as quietly as possible
+  to prevent disturbing birds. Counts typically start within a minute of
+  arriving at the monitoring location and last for five minutes. The
+  species, number of birds observed, detection type (song, call, visual)
+  and any breeding behavior the birds may be displaying are recorded.
+  Behavior codes: CO – Copulation DI – Territorial Display DD –
+  Distraction display FC – Food being carried FL – Fledgling(s) present
+  FS – Fecal sac being carried MC – Material being carried NF – Nest
+  found PA – Pair
+</para>
+          <para>
+  If something interferes with our ability to detect birds during the
+  five minute count (e.g. a vehicle drives by), the count is stopped
+  until the disturbance has passed and the five minute count starts
+  over. Bird attractants are not used such as recorded or verbal calls
+  or "pishing" to flush birds out.
+</para>
+        </description>
+      </methodStep>
+    </methods>
+    <project>
+      <title>Sentinel Site</title>
+      <personnel>
+        <individualName>
+          <givenName>Tosha</givenName>
+          <surName>Comendant</surName>
+        </individualName>
+        <electronicMailAddress>tcomendant@pepperwoodpreserve.org</electronicMailAddress>
+        <role>Principal Investigator</role>
+      </personnel>
+      <funding>Pepperwood Foundation: </funding>
+      <relatedProject>
+        <title>Sentinel Site</title>
+        <personnel>
+          <individualName>
+            <givenName>Lisa</givenName>
+            <surName>Micheli</surName>
+          </individualName>
+          <electronicMailAddress>lmicheli@pepperwoodpreserve.org</electronicMailAddress>
+          <role>Principal Investigator</role>
+        </personnel>
+        <funding>Pepperwood Foundation: </funding>
+      </relatedProject>
+    </project>
+    <dataTable>
+      <entityName>BBS_RawDatabase_pointCounts.csv</entityName>
+      <entityDescription>Long term bird point count field data from 4 transects at Pepperwood</entityDescription>
+      <physical>
+        <objectName>BBS_RawDatabase_pointCounts.csv</objectName>
+        <size unit="byte">1158434</size>
+        <authentication method="MD5">d96f3024793e1dceba8e322061258c67</authentication>
+        <dataFormat>
+          <textFormat>
+            <numHeaderLines>1</numHeaderLines>
+            <recordDelimiter>\r\n</recordDelimiter>
+            <attributeOrientation>column</attributeOrientation>
+            <simpleDelimited>
+              <fieldDelimiter>,</fieldDelimiter>
+              <quoteCharacter>"</quoteCharacter>
+            </simpleDelimited>
+          </textFormat>
+        </dataFormat>
+        <distribution>
+          <offline>
+            <mediumName>Organizational server</mediumName>
+          </offline>
+        </distribution>
+      </physical>
+      <attributeList>
+        <attribute>
+          <attributeName>Project</attributeName>
+          <attributeDefinition>Project code PEPR stands for Pepperwood Preserve</attributeDefinition>
+          <storageType>string</storageType>
+          <measurementScale>
+            <nominal>
+              <nonNumericDomain>
+                <enumeratedDomain>
+                  <codeDefinition>
+                    <code>PEPR</code>
+                    <definition>Project code for Pepperwood Preserve</definition>
+                  </codeDefinition>
+                </enumeratedDomain>
+              </nonNumericDomain>
+            </nominal>
+          </measurementScale>
+          <missingValueCode>
+            <code>-9999</code>
+            <codeExplanation>missing value</codeExplanation>
+          </missingValueCode>
+        </attribute>
+        <attribute>
+          <attributeName>Transect</attributeName>
+          <attributeDefinition>Transect code</attributeDefinition>
+          <storageType>string</storageType>
+          <measurementScale>
+            <nominal>
+              <nonNumericDomain>
+                <enumeratedDomain>
+                  <codeDefinition>
+                    <code>MACR</code>
+                    <definition>Martin Creek transect - runs from Three Tree Hill to the northwestern edge of the preserve along the Martin Creek stretch; Established 2007; 9 sampling points along route</definition>
+                  </codeDefinition>
+                  <codeDefinition>
+                    <code>PERO</code>
+                    <definition>Pepperwood Road transect - runs from the preserve entrance to Three Tree Hill; Established 2012; 10 sampling points along route</definition>
+                  </codeDefinition>
+                  <codeDefinition>
+                    <code>ROCA</code>
+                    <definition>Rogers Canyon transect - runs from Turtle Pond to the property boundary near Leslie Creek Road; Established 2007; 10 sampling points along route</definition>
+                  </codeDefinition>
+                  <codeDefinition>
+                    <code>WEFL</code>
+                    <definition>Weimar Flat transect - runs from the Weimar pasture western gate to our neighboring property east of Weimar Flat; Established 2007; 9 sampling points along route</definition>
+                  </codeDefinition>
+                </enumeratedDomain>
+              </nonNumericDomain>
+            </nominal>
+          </measurementScale>
+          <missingValueCode>
+            <code>-9999</code>
+            <codeExplanation>missing value</codeExplanation>
+          </missingValueCode>
+        </attribute>
+        <attribute>
+          <attributeName>Point</attributeName>
+          <attributeDefinition>Transect sampling point ID using transect and point number</attributeDefinition>
+          <storageType>string</storageType>
+          <measurementScale>
+            <nominal>
+              <nonNumericDomain>
+                <textDomain>
+                  <definition>Transect sampling point ID using transect and point number</definition>
+                </textDomain>
+              </nonNumericDomain>
+            </nominal>
+          </measurementScale>
+          <missingValueCode>
+            <code>-9999</code>
+            <codeExplanation>missing value</codeExplanation>
+          </missingValueCode>
+        </attribute>
+        <attribute>
+          <attributeName>Protocol</attributeName>
+          <attributeDefinition>Breeding bird survey sampling protocol used</attributeDefinition>
+          <storageType>string</storageType>
+          <measurementScale>
+            <nominal>
+              <nonNumericDomain>
+                <enumeratedDomain>
+                  <codeDefinition>
+                    <code>FR50</code>
+                    <definition>Fixed Radius 50m point count</definition>
+                  </codeDefinition>
+                </enumeratedDomain>
+              </nonNumericDomain>
+            </nominal>
+          </measurementScale>
+          <missingValueCode>
+            <code>-9999</code>
+            <codeExplanation>missing value</codeExplanation>
+          </missingValueCode>
+        </attribute>
+        <attribute>
+          <attributeName>Visit</attributeName>
+          <attributeDefinition>Visit number for the survey during a given breeding bird season (standard is 3 visits one each during April May and June)</attributeDefinition>
+          <storageType>float</storageType>
+          <measurementScale>
+            <ratio>
+              <unit>
+                <standardUnit>number</standardUnit>
+              </unit>
+              <numericDomain>
+                <numberType>natural</numberType>
+                <bounds>
+                  <minimum exclusive="false">1</minimum>
+                  <maximum exclusive="false">3</maximum>
+                </bounds>
+              </numericDomain>
+            </ratio>
+          </measurementScale>
+          <missingValueCode>
+            <code>-9999</code>
+            <codeExplanation>missing value</codeExplanation>
+          </missingValueCode>
+        </attribute>
+        <attribute>
+          <attributeName>Date</attributeName>
+          <attributeDefinition>Sampling date</attributeDefinition>
+          <storageType>date</storageType>
+          <measurementScale>
+            <dateTime>
+              <formatString>MM/DD/YYYY</formatString>
+            </dateTime>
+          </measurementScale>
+          <missingValueCode>
+            <code>-9999</code>
+            <codeExplanation>missing value</codeExplanation>
+          </missingValueCode>
+        </attribute>
+        <attribute>
+          <attributeName>Year</attributeName>
+          <attributeDefinition>Year of sampling date</attributeDefinition>
+          <storageType>date</storageType>
+          <measurementScale>
+            <dateTime>
+              <formatString>YYYY</formatString>
+            </dateTime>
+          </measurementScale>
+          <missingValueCode>
+            <code>-9999</code>
+            <codeExplanation>missing value</codeExplanation>
+          </missingValueCode>
+        </attribute>
+        <attribute>
+          <attributeName>StartTime</attributeName>
+          <attributeDefinition>Sampling start time</attributeDefinition>
+          <storageType>date</storageType>
+          <measurementScale>
+            <dateTime>
+              <formatString>hh:mm</formatString>
+            </dateTime>
+          </measurementScale>
+          <missingValueCode>
+            <code>-9999</code>
+            <codeExplanation>time either not recorded or not entered</codeExplanation>
+          </missingValueCode>
+        </attribute>
+        <attribute>
+          <attributeName>EndTime</attributeName>
+          <attributeDefinition>Sampling end time</attributeDefinition>
+          <storageType>date</storageType>
+          <measurementScale>
+            <dateTime>
+              <formatString>hh:mm</formatString>
+            </dateTime>
+          </measurementScale>
+          <missingValueCode>
+            <code>-9999</code>
+            <codeExplanation>time either not recorded or not entered</codeExplanation>
+          </missingValueCode>
+        </attribute>
+        <attribute>
+          <attributeName>ObserveTime</attributeName>
+          <attributeDefinition>Defaulted to sampling start time</attributeDefinition>
+          <storageType>date</storageType>
+          <measurementScale>
+            <dateTime>
+              <formatString>hh:mm</formatString>
+            </dateTime>
+          </measurementScale>
+          <missingValueCode>
+            <code>-9999</code>
+            <codeExplanation>time either not recorded or not entered</codeExplanation>
+          </missingValueCode>
+        </attribute>
+        <attribute>
+          <attributeName>Count</attributeName>
+          <attributeDefinition>Number of individuals</attributeDefinition>
+          <storageType>float</storageType>
+          <measurementScale>
+            <ratio>
+              <unit>
+                <standardUnit>number</standardUnit>
+              </unit>
+              <numericDomain>
+                <numberType>natural</numberType>
+                <bounds>
+                  <minimum exclusive="false">1</minimum>
+                  <maximum exclusive="false">100</maximum>
+                </bounds>
+              </numericDomain>
+            </ratio>
+          </measurementScale>
+          <missingValueCode>
+            <code>-9999</code>
+            <codeExplanation>missing value</codeExplanation>
+          </missingValueCode>
+        </attribute>
+        <attribute>
+          <attributeName>Spp</attributeName>
+          <attributeDefinition>Internal species code for species observed or heard</attributeDefinition>
+          <storageType>string</storageType>
+          <measurementScale>
+            <nominal>
+              <nonNumericDomain>
+                <enumeratedDomain>
+                  <codeDefinition>
+                    <code>ACWO</code>
+                    <definition>Acorn Woodpecker (Melanerpes formicivorus)</definition>
+                  </codeDefinition>
+                  <codeDefinition>
+                    <code>ALHU</code>
+                    <definition>Allen's Hummingbird (Selasphorus sasin)</definition>
+                  </codeDefinition>
+                  <codeDefinition>
+                    <code>AMCR</code>
+                    <definition>American Crow (Corvus brachyrhynchos)</definition>
+                  </codeDefinition>
+                  <codeDefinition>
+                    <code>AMGO</code>
+                    <definition>American Goldfinch (Spinus tristis)</definition>
+                  </codeDefinition>
+                  <codeDefinition>
+                    <code>AMKE</code>
+                    <definition>American Kestrel (Falco sparverius)</definition>
+                  </codeDefinition>
+                  <codeDefinition>
+                    <code>AMRO</code>
+                    <definition>American Robin (Turdus migratorius)</definition>
+                  </codeDefinition>
+                  <codeDefinition>
+                    <code>ANHU</code>
+                    <definition>Anna's Hummingbird (Calypte anna)</definition>
+                  </codeDefinition>
+                  <codeDefinition>
+                    <code>ATFL</code>
+                    <definition>Ash-throated Flycatcher (Myiarchus cinerascens)</definition>
+                  </codeDefinition>
+                  <codeDefinition>
+                    <code>BARS</code>
+                    <definition>Barn Swallow (Hirundo rustica)</definition>
+                  </codeDefinition>
+                  <codeDefinition>
+                    <code>BEWR</code>
+                    <definition>Bewick's Wren (Thryomanes bewickii)</definition>
+                  </codeDefinition>
+                  <codeDefinition>
+                    <code>BGGN</code>
+                    <definition>Blue-gray Gnatcatcher (Polioptila caerulea)</definition>
+                  </codeDefinition>
+                  <codeDefinition>
+                    <code>BHCO</code>
+                    <definition>Brown-headed Cowbird (Molothrus ater)</definition>
+                  </codeDefinition>
+                  <codeDefinition>
+                    <code>BHGR</code>
+                    <definition>Black-headed Grosbeak (Pheucticus melanocephalus)</definition>
+                  </codeDefinition>
+                  <codeDefinition>
+                    <code>BLPH</code>
+                    <definition>Black Phoebe (Sayornis nigricans)</definition>
+                  </codeDefinition>
+                  <codeDefinition>
+                    <code>BRBL</code>
+                    <definition>Brewer's Blackbird (Euphagus cyanocephalus)</definition>
+                  </codeDefinition>
+                  <codeDefinition>
+                    <code>BRCR</code>
+                    <definition>Brown Creeper (Certhia americana)</definition>
+                  </codeDefinition>
+                  <codeDefinition>
+                    <code>BTPI</code>
+                    <definition>Band-tailed Pigeon (Patagioenas fasciata)</definition>
+                  </codeDefinition>
+                  <codeDefinition>
+                    <code>BTYW</code>
+                    <definition>Black-throated Gray Warbler (Dendroica nigrescens)</definition>
+                  </codeDefinition>
+                  <codeDefinition>
+                    <code>BUOR</code>
+                    <definition>Bullock's Oriole (Icterus bullockii)</definition>
+                  </codeDefinition>
+                  <codeDefinition>
+                    <code>BUSH</code>
+                    <definition>Bushtit (Psaltriparus minimus)</definition>
+                  </codeDefinition>
+                  <codeDefinition>
+                    <code>CALT</code>
+                    <definition>California Towhee (Pipilo crissalis)</definition>
+                  </codeDefinition>
+                  <codeDefinition>
+                    <code>CANG</code>
+                    <definition>Canada Goose (Branta canadensis)</definition>
+                  </codeDefinition>
+                  <codeDefinition>
+                    <code>CAQU</code>
+                    <definition>California Quail (Callipepla californica)</definition>
+                  </codeDefinition>
+                  <codeDefinition>
+                    <code>CAVI</code>
+                    <definition>Cassin's Vireo (Vireo cassinii)</definition>
+                  </codeDefinition>
+                  <codeDefinition>
+                    <code>CBCH</code>
+                    <definition>Chestnut-backed Chickadee (Poecile rufescens)</definition>
+                  </codeDefinition>
+                  <codeDefinition>
+                    <code>CEDW</code>
+                    <definition>Cedar Waxwing (Bombycilla cedrorum)</definition>
+                  </codeDefinition>
+                  <codeDefinition>
+                    <code>CHSP</code>
+                    <definition>Chipping Sparrow (Spizella passerina)</definition>
+                  </codeDefinition>
+                  <codeDefinition>
+                    <code>CLSW</code>
+                    <definition>Cliff Swallow (Petrochelidon pyrrhonota)</definition>
+                  </codeDefinition>
+                  <codeDefinition>
+                    <code>CORA</code>
+                    <definition>Common Raven (Corvus corax)</definition>
+                  </codeDefinition>
+                  <codeDefinition>
+                    <code>DCCO</code>
+                    <definition>Double-crested Cormorant (Phalacrocorax auritus)</definition>
+                  </codeDefinition>
+                  <codeDefinition>
+                    <code>DOWO</code>
+                    <definition>Downy Woodpecker (Picoides pubescens)</definition>
+                  </codeDefinition>
+                  <codeDefinition>
+                    <code>EUST</code>
+                    <definition>European Starling (Sturnus vulgaris)</definition>
+                  </codeDefinition>
+                  <codeDefinition>
+                    <code>GBHE</code>
+                    <definition>Great Blue Heron (Ardea herodias)</definition>
+                  </codeDefinition>
+                  <codeDefinition>
+                    <code>GCSP</code>
+                    <definition>Golden-crowned Sparrow (Zonotrichia atricapilla)</definition>
+                  </codeDefinition>
+                  <codeDefinition>
+                    <code>GHOW</code>
+                    <definition>Great Horned Owl (Bubo virginianus)</definition>
+                  </codeDefinition>
+                  <codeDefinition>
+                    <code>GOEA</code>
+                    <definition>Golden Eagle (Aquila chrysaetos)</definition>
+                  </codeDefinition>
+                  <codeDefinition>
+                    <code>GRSP</code>
+                    <definition>Grasshopper Sparrow (Ammodramus savannarum)</definition>
+                  </codeDefinition>
+                  <codeDefinition>
+                    <code>HAWO</code>
+                    <definition>Hairy Woodpecker (Picoides villosus)</definition>
+                  </codeDefinition>
+                  <codeDefinition>
+                    <code>HETH</code>
+                    <definition>Hermit Thrush (Catharus guttatus)</definition>
+                  </codeDefinition>
+                  <codeDefinition>
+                    <code>HOFI</code>
+                    <definition>House Finch (Carpodacus mexicanus)</definition>
+                  </codeDefinition>
+                  <codeDefinition>
+                    <code>HOWR</code>
+                    <definition>House Wren (Troglodytes aedon)</definition>
+                  </codeDefinition>
+                  <codeDefinition>
+                    <code>HUVI</code>
+                    <definition>Hutton's Vireo (Vireo huttoni)</definition>
+                  </codeDefinition>
+                  <codeDefinition>
+                    <code>LAGO</code>
+                    <definition>Lawrence's Goldfinch (Spinus lawrencei)</definition>
+                  </codeDefinition>
+                  <codeDefinition>
+                    <code>LASP</code>
+                    <definition>Lark Sparrow (Chondestes grammacus)</definition>
+                  </codeDefinition>
+                  <codeDefinition>
+                    <code>LAZB</code>
+                    <definition>Lazuli Bunting (Passerina amoena)</definition>
+                  </codeDefinition>
+                  <codeDefinition>
+                    <code>LEGO</code>
+                    <definition>Lesser Goldfinch (Spinus psaltria)</definition>
+                  </codeDefinition>
+                  <codeDefinition>
+                    <code>MALL</code>
+                    <definition>Mallard (Anas platyrhynchos)</definition>
+                  </codeDefinition>
+                  <codeDefinition>
+                    <code>MERL</code>
+                    <definition>Merlin (Falco columbarius)</definition>
+                  </codeDefinition>
+                  <codeDefinition>
+                    <code>MODO</code>
+                    <definition>Mourning Dove (Zenaida macroura)</definition>
+                  </codeDefinition>
+                  <codeDefinition>
+                    <code>MOUQ</code>
+                    <definition>Mountain Quail (Oreortyx pictus)</definition>
+                  </codeDefinition>
+                  <codeDefinition>
+                    <code>NOHA</code>
+                    <definition>Northern Harrier (Circus cyaneus)</definition>
+                  </codeDefinition>
+                  <codeDefinition>
+                    <code>NOPO</code>
+                    <definition>Northern Pygmy-Owl (Glaucidium gnoma)</definition>
+                  </codeDefinition>
+                  <codeDefinition>
+                    <code>NUWO</code>
+                    <definition>Nuttall's Woodpecker (Picoides nuttallii)</definition>
+                  </codeDefinition>
+                  <codeDefinition>
+                    <code>OATI</code>
+                    <definition>Oak Titmouse (Baeolophus inornatus)</definition>
+                  </codeDefinition>
+                  <codeDefinition>
+                    <code>OCWA</code>
+                    <definition>Orange-crowned Warbler (Vermivora celata)</definition>
+                  </codeDefinition>
+                  <codeDefinition>
+                    <code>ORJU</code>
+                    <definition>Oregon Junco (Junco hyemalis oregonus)</definition>
+                  </codeDefinition>
+                  <codeDefinition>
+                    <code>OSFL</code>
+                    <definition>Olive-sided Flycatcher (Contopus cooperi)</definition>
+                  </codeDefinition>
+                  <codeDefinition>
+                    <code>OSPR</code>
+                    <definition>Osprey (Pandion haliaetus)</definition>
+                  </codeDefinition>
+                  <codeDefinition>
+                    <code>PAWR</code>
+                    <definition>Pacific Wren (Troglodytes pacificus)</definition>
+                  </codeDefinition>
+                  <codeDefinition>
+                    <code>PEFA</code>
+                    <definition>Peregrine Falcon (Falco peregrinus)</definition>
+                  </codeDefinition>
+                  <codeDefinition>
+                    <code>PISI</code>
+                    <definition>Pine Siskin (Spinus pinus)</definition>
+                  </codeDefinition>
+                  <codeDefinition>
+                    <code>PIWO</code>
+                    <definition>Pileated Woodpecker (Dryocopus pileatus)</definition>
+                  </codeDefinition>
+                  <codeDefinition>
+                    <code>PSFL</code>
+                    <definition>Pacific-slope Flycatcher (Empidonax difficilis)</definition>
+                  </codeDefinition>
+                  <codeDefinition>
+                    <code>PUFI</code>
+                    <definition>Purple Finch (Haemorhous purpureus)</definition>
+                  </codeDefinition>
+                  <codeDefinition>
+                    <code>RBNU</code>
+                    <definition>Red-breasted Nuthatch (Sitta canadensis)</definition>
+                  </codeDefinition>
+                  <codeDefinition>
+                    <code>RCKI</code>
+                    <definition>Ruby-crowned Kinglet (Regulus calendula)</definition>
+                  </codeDefinition>
+                  <codeDefinition>
+                    <code>RCSP</code>
+                    <definition>Rufous-crowned Sparrow (Aimophila ruficeps)</definition>
+                  </codeDefinition>
+                  <codeDefinition>
+                    <code>ROPI</code>
+                    <definition>Rock Pigeon (Columba livia)</definition>
+                  </codeDefinition>
+                  <codeDefinition>
+                    <code>RSFL</code>
+                    <definition>Red-shafted Flicker (Colaptes auratus cafer)</definition>
+                  </codeDefinition>
+                  <codeDefinition>
+                    <code>RSHA</code>
+                    <definition>Red-shouldered Hawk (Buteo lineatus)</definition>
+                  </codeDefinition>
+                  <codeDefinition>
+                    <code>RTHA</code>
+                    <definition>Red-tailed Hawk (Buteo jamaicensis)</definition>
+                  </codeDefinition>
+                  <codeDefinition>
+                    <code>RWBL</code>
+                    <definition>Red-winged Blackbird (Agelaius phoeniceus)</definition>
+                  </codeDefinition>
+                  <codeDefinition>
+                    <code>SAPH</code>
+                    <definition>Say's Phoebe (Sayornis saya)</definition>
+                  </codeDefinition>
+                  <codeDefinition>
+                    <code>SAVS</code>
+                    <definition>Savannah Sparrow (Passerculus sandwichensis)</definition>
+                  </codeDefinition>
+                  <codeDefinition>
+                    <code>SOSP</code>
+                    <definition>Song Sparrow (Melospiza melodia)</definition>
+                  </codeDefinition>
+                  <codeDefinition>
+                    <code>SPTO</code>
+                    <definition>Spotted Towhee (Pipilo maculatus)</definition>
+                  </codeDefinition>
+                  <codeDefinition>
+                    <code>STJA</code>
+                    <definition>Steller's Jay (Cyanocitta stelleri)</definition>
+                  </codeDefinition>
+                  <codeDefinition>
+                    <code>SWTH</code>
+                    <definition>Swainson's Thrush (Catharus ustulatus)</definition>
+                  </codeDefinition>
+                  <codeDefinition>
+                    <code>TOWA</code>
+                    <definition>Townsend's Warbler (Dendroica townsendi)</definition>
+                  </codeDefinition>
+                  <codeDefinition>
+                    <code>TRES</code>
+                    <definition>Tree Swallow (Tachycineta bicolor)</definition>
+                  </codeDefinition>
+                  <codeDefinition>
+                    <code>TUVU</code>
+                    <definition>Turkey Vulture (Cathartes aura)</definition>
+                  </codeDefinition>
+                  <codeDefinition>
+                    <code>VGSW</code>
+                    <definition>Violet-green Swallow (Tachycineta thalassina)</definition>
+                  </codeDefinition>
+                  <codeDefinition>
+                    <code>WAVI</code>
+                    <definition>Warbling Vireo (Vireo gilvus)</definition>
+                  </codeDefinition>
+                  <codeDefinition>
+                    <code>WBNU</code>
+                    <definition>White-breasted Nuthatch (Sitta carolinensis)</definition>
+                  </codeDefinition>
+                  <codeDefinition>
+                    <code>WEBL</code>
+                    <definition>Western Bluebird (Sialia mexicana)</definition>
+                  </codeDefinition>
+                  <codeDefinition>
+                    <code>WEKI</code>
+                    <definition>Western Kingbird (Tyrannus verticalis)</definition>
+                  </codeDefinition>
+                  <codeDefinition>
+                    <code>WEME</code>
+                    <definition>Western Meadowlark (Sturnella neglecta)</definition>
+                  </codeDefinition>
+                  <codeDefinition>
+                    <code>WESJ</code>
+                    <definition>Western Scrub-Jay (Aphelocoma californica)</definition>
+                  </codeDefinition>
+                  <codeDefinition>
+                    <code>WETA</code>
+                    <definition>Western Tanager (Piranga ludoviciana)</definition>
+                  </codeDefinition>
+                  <codeDefinition>
+                    <code>WEWP</code>
+                    <definition>Western Wood-Pewee (Contopus sordidulus)</definition>
+                  </codeDefinition>
+                  <codeDefinition>
+                    <code>WIFL</code>
+                    <definition>Willow Flycatcher (Empidonax traillii)</definition>
+                  </codeDefinition>
+                  <codeDefinition>
+                    <code>WITU</code>
+                    <definition>Wild Turkey (Meleagris gallopavo)</definition>
+                  </codeDefinition>
+                  <codeDefinition>
+                    <code>WIWA</code>
+                    <definition>Wilson's Warbler (Wilsonia pusilla)</definition>
+                  </codeDefinition>
+                  <codeDefinition>
+                    <code>WREN</code>
+                    <definition>Wrentit (Chamaea fasciata)</definition>
+                  </codeDefinition>
+                  <codeDefinition>
+                    <code>WTKI</code>
+                    <definition>White-tailed Kite (Elanus leucurus)</definition>
+                  </codeDefinition>
+                  <codeDefinition>
+                    <code>XXFI</code>
+                    <definition>Finch sp</definition>
+                  </codeDefinition>
+                  <codeDefinition>
+                    <code>XXGO</code>
+                    <definition>Goose sp</definition>
+                  </codeDefinition>
+                  <codeDefinition>
+                    <code>XXSP</code>
+                    <definition>Sparrow sp</definition>
+                  </codeDefinition>
+                  <codeDefinition>
+                    <code>XXHU</code>
+                    <definition>Hummingbird sp</definition>
+                  </codeDefinition>
+                  <codeDefinition>
+                    <code>XXSW</code>
+                    <definition>Swallow or Swift sp</definition>
+                  </codeDefinition>
+                  <codeDefinition>
+                    <code>XXWA</code>
+                    <definition>Warbler sp</definition>
+                  </codeDefinition>
+                  <codeDefinition>
+                    <code>XXWO</code>
+                    <definition>Woodpecker sp</definition>
+                  </codeDefinition>
+                  <codeDefinition>
+                    <code>XXXX</code>
+                    <definition>Bird sp</definition>
+                  </codeDefinition>
+                  <codeDefinition>
+                    <code>YEWA</code>
+                    <definition>Yellow Warbler (Dendroica petechia)</definition>
+                  </codeDefinition>
+                  <codeDefinition>
+                    <code>YRWA</code>
+                    <definition>Yellow-rumped Warbler (Dendroica coronata)</definition>
+                  </codeDefinition>
+                </enumeratedDomain>
+              </nonNumericDomain>
+            </nominal>
+          </measurementScale>
+          <missingValueCode>
+            <code>-9999</code>
+            <codeExplanation>missing value</codeExplanation>
+          </missingValueCode>
+        </attribute>
+        <attribute>
+          <attributeName>DetectionCue</attributeName>
+          <attributeDefinition>Detection cue by which the species was detected (visual call or singing)</attributeDefinition>
+          <storageType>string</storageType>
+          <measurementScale>
+            <nominal>
+              <nonNumericDomain>
+                <enumeratedDomain>
+                  <codeDefinition>
+                    <code>-9999</code>
+                    <definition>missing values code</definition>
+                  </codeDefinition>
+                  <codeDefinition>
+                    <code>C</code>
+                    <definition>Call or drumming observation</definition>
+                  </codeDefinition>
+                  <codeDefinition>
+                    <code>S</code>
+                    <definition>Singing observation</definition>
+                  </codeDefinition>
+                  <codeDefinition>
+                    <code>V</code>
+                    <definition>Visual observation</definition>
+                  </codeDefinition>
+                </enumeratedDomain>
+              </nonNumericDomain>
+            </nominal>
+          </measurementScale>
+          <missingValueCode>
+            <code>-9999</code>
+            <codeExplanation>missing value</codeExplanation>
+          </missingValueCode>
+        </attribute>
+        <attribute>
+          <attributeName>DistanceBinID</attributeName>
+          <attributeDefinition>Distance of species from observer</attributeDefinition>
+          <storageType>string</storageType>
+          <measurementScale>
+            <nominal>
+              <nonNumericDomain>
+                <enumeratedDomain>
+                  <codeDefinition>
+                    <code>-9999</code>
+                    <definition>missing values code</definition>
+                  </codeDefinition>
+                  <codeDefinition>
+                    <code>FLO</code>
+                    <definition>Flyover</definition>
+                  </codeDefinition>
+                  <codeDefinition>
+                    <code>G50</code>
+                    <definition>Greater than 50m from observer</definition>
+                  </codeDefinition>
+                  <codeDefinition>
+                    <code>L50</code>
+                    <definition>Less than 50m from observer</definition>
+                  </codeDefinition>
+                </enumeratedDomain>
+              </nonNumericDomain>
+            </nominal>
+          </measurementScale>
+          <missingValueCode>
+            <code>-9999</code>
+            <codeExplanation>missing value</codeExplanation>
+          </missingValueCode>
+        </attribute>
+        <attribute>
+          <attributeName>DistanceBin</attributeName>
+          <attributeDefinition>Bin of distance of species from observer</attributeDefinition>
+          <storageType>string</storageType>
+          <measurementScale>
+            <nominal>
+              <nonNumericDomain>
+                <enumeratedDomain>
+                  <codeDefinition>
+                    <code>-9999</code>
+                    <definition>missing values code</definition>
+                  </codeDefinition>
+                  <codeDefinition>
+                    <code>&lt;50</code>
+                    <definition>Less than 50m from observer</definition>
+                  </codeDefinition>
+                  <codeDefinition>
+                    <code>&gt;50</code>
+                    <definition>Greater than 50m from observer</definition>
+                  </codeDefinition>
+                  <codeDefinition>
+                    <code>FlyOver</code>
+                    <definition>Flyover</definition>
+                  </codeDefinition>
+                </enumeratedDomain>
+              </nonNumericDomain>
+            </nominal>
+          </measurementScale>
+          <missingValueCode>
+            <code>-9999</code>
+            <codeExplanation>missing value</codeExplanation>
+          </missingValueCode>
+        </attribute>
+        <attribute>
+          <attributeName>TimeBin</attributeName>
+          <attributeDefinition>Amount of time spent observing (default 5min)</attributeDefinition>
+          <storageType>float</storageType>
+          <measurementScale>
+            <ratio>
+              <unit>
+                <standardUnit>minute</standardUnit>
+              </unit>
+              <numericDomain>
+                <numberType>real</numberType>
+              </numericDomain>
+            </ratio>
+          </measurementScale>
+          <missingValueCode>
+            <code>-9999</code>
+            <codeExplanation>missing value</codeExplanation>
+          </missingValueCode>
+        </attribute>
+        <attribute>
+          <attributeName>BreedingStatus</attributeName>
+          <attributeDefinition>Observed breeding bird behavior</attributeDefinition>
+          <storageType>string</storageType>
+          <measurementScale>
+            <nominal>
+              <nonNumericDomain>
+                <enumeratedDomain>
+                  <codeDefinition>
+                    <code>-9999</code>
+                    <definition>missing values code</definition>
+                  </codeDefinition>
+                  <codeDefinition>
+                    <code>DD</code>
+                    <definition>Distraction Display</definition>
+                  </codeDefinition>
+                  <codeDefinition>
+                    <code>FC</code>
+                    <definition>Food carry</definition>
+                  </codeDefinition>
+                  <codeDefinition>
+                    <code>FL</code>
+                    <definition>Fledgling</definition>
+                  </codeDefinition>
+                  <codeDefinition>
+                    <code>FS</code>
+                    <definition>Fecal sac carry</definition>
+                  </codeDefinition>
+                  <codeDefinition>
+                    <code>M</code>
+                    <definition>Material carry</definition>
+                  </codeDefinition>
+                  <codeDefinition>
+                    <code>N</code>
+                    <definition>Nest found</definition>
+                  </codeDefinition>
+                  <codeDefinition>
+                    <code>N and FC</code>
+                    <definition>Nest found with food carry</definition>
+                  </codeDefinition>
+                </enumeratedDomain>
+              </nonNumericDomain>
+            </nominal>
+          </measurementScale>
+          <missingValueCode>
+            <code>-9999</code>
+            <codeExplanation>missing value</codeExplanation>
+          </missingValueCode>
+        </attribute>
+        <attribute>
+          <attributeName>Observer</attributeName>
+          <attributeDefinition>Name of main observer</attributeDefinition>
+          <storageType>string</storageType>
+          <measurementScale>
+            <nominal>
+              <nonNumericDomain>
+                <textDomain>
+                  <definition>Name of main observer</definition>
+                </textDomain>
+              </nonNumericDomain>
+            </nominal>
+          </measurementScale>
+          <missingValueCode>
+            <code>-9999</code>
+            <codeExplanation>missing value</codeExplanation>
+          </missingValueCode>
+        </attribute>
+        <attribute>
+          <attributeName>levelQC</attributeName>
+          <attributeDefinition>Status of data QC process</attributeDefinition>
+          <storageType>string</storageType>
+          <measurementScale>
+            <nominal>
+              <nonNumericDomain>
+                <enumeratedDomain>
+                  <codeDefinition>
+                    <code>0</code>
+                    <definition>Data entered not QC'd "raw"</definition>
+                  </codeDefinition>
+                  <codeDefinition>
+                    <code>1</code>
+                    <definition>Data entered QC'd and cleaned</definition>
+                  </codeDefinition>
+                </enumeratedDomain>
+              </nonNumericDomain>
+            </nominal>
+          </measurementScale>
+          <missingValueCode>
+            <code>-9999</code>
+            <codeExplanation>missing value</codeExplanation>
+          </missingValueCode>
+        </attribute>
+        <attribute>
+          <attributeName>DataUploadedCADC</attributeName>
+          <attributeDefinition>Status of data upload to CADC repository</attributeDefinition>
+          <storageType>string</storageType>
+          <measurementScale>
+            <nominal>
+              <nonNumericDomain>
+                <enumeratedDomain>
+                  <codeDefinition>
+                    <code>0</code>
+                    <definition>Data not uploaded to CADC repository</definition>
+                  </codeDefinition>
+                  <codeDefinition>
+                    <code>1</code>
+                    <definition>Data uploaded to CADC repository</definition>
+                  </codeDefinition>
+                </enumeratedDomain>
+              </nonNumericDomain>
+            </nominal>
+          </measurementScale>
+          <missingValueCode>
+            <code>-9999</code>
+            <codeExplanation>missing value</codeExplanation>
+          </missingValueCode>
+        </attribute>
+        <attribute>
+          <attributeName>FieldNotes</attributeName>
+          <attributeDefinition>Notes from field data sheets</attributeDefinition>
+          <storageType>string</storageType>
+          <measurementScale>
+            <nominal>
+              <nonNumericDomain>
+                <textDomain>
+                  <definition>Notes from field data sheets</definition>
+                </textDomain>
+              </nonNumericDomain>
+            </nominal>
+          </measurementScale>
+          <missingValueCode>
+            <code>-9999</code>
+            <codeExplanation>no notes made</codeExplanation>
+          </missingValueCode>
+        </attribute>
+        <attribute>
+          <attributeName>EnteredData</attributeName>
+          <attributeDefinition>Name of person that entered data digitally</attributeDefinition>
+          <storageType>string</storageType>
+          <measurementScale>
+            <nominal>
+              <nonNumericDomain>
+                <textDomain>
+                  <definition>Name of person that entered data digitally</definition>
+                </textDomain>
+              </nonNumericDomain>
+            </nominal>
+          </measurementScale>
+          <missingValueCode>
+            <code>-9999</code>
+            <codeExplanation>missing value</codeExplanation>
+          </missingValueCode>
+        </attribute>
+        <attribute>
+          <attributeName>DataQCdBy</attributeName>
+          <attributeDefinition>Name of person that QC'd data entry</attributeDefinition>
+          <storageType>string</storageType>
+          <measurementScale>
+            <nominal>
+              <nonNumericDomain>
+                <textDomain>
+                  <definition>Name of person that QC'd data entry</definition>
+                </textDomain>
+              </nonNumericDomain>
+            </nominal>
+          </measurementScale>
+          <missingValueCode>
+            <code>-9999</code>
+            <codeExplanation>missing value</codeExplanation>
+          </missingValueCode>
+        </attribute>
+        <attribute>
+          <attributeName>QCNotes</attributeName>
+          <attributeDefinition>Notes about the QC process such as code changes between data sheets and digital format</attributeDefinition>
+          <storageType>string</storageType>
+          <measurementScale>
+            <nominal>
+              <nonNumericDomain>
+                <textDomain>
+                  <definition>Notes about the QC process such as code changes between data sheets and digital format</definition>
+                </textDomain>
+              </nonNumericDomain>
+            </nominal>
+          </measurementScale>
+          <missingValueCode>
+            <code>-9999</code>
+            <codeExplanation>no notes made</codeExplanation>
+          </missingValueCode>
+        </attribute>
+      </attributeList>
+      <numberOfRecords>8121</numberOfRecords>
+    </dataTable>
+  </dataset>
+</eml:eml>
